@@ -1,0 +1,9 @@
+G:\VSprojects\PCommLite研究\PCommLite研究\bin\x86\Release\PCommLite研究.exe.config
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.csprojResolveAssemblyReference.cache
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.Form1.resources
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.Properties.Resources.resources
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.csproj.GenerateResource.Cache
+G:\VSprojects\PCommLite研究\PCommLite研究\bin\x86\Release\PCommLite研究.exe
+G:\VSprojects\PCommLite研究\PCommLite研究\bin\x86\Release\PCommLite研究.pdb
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.exe
+G:\VSprojects\PCommLite研究\PCommLite研究\obj\x86\Release\PCommLite研究.pdb
