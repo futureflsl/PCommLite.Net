@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\PCommLite.Net\PCommLite.Net\bin\Debug\PCommLite.Net.dll
+C:\Users\ASUS\Desktop\PCommLite.Net\PCommLite.Net\bin\Debug\PCommLite.Net.pdb
+C:\Users\ASUS\Desktop\PCommLite.Net\PCommLite.Net\obj\Debug\PCommLite.Net.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PCommLite.Net\PCommLite.Net\obj\Debug\PCommLite.Net.dll
+C:\Users\ASUS\Desktop\PCommLite.Net\PCommLite.Net\obj\Debug\PCommLite.Net.pdb
